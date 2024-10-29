@@ -1,2 +1,3 @@
-# about
-About me!
+# About
+
+About Juniper!
